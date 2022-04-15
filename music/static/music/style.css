@@ -1,0 +1,8 @@
+body{
+    background: black url("images/background.png");
+}
+.navbar-brand {
+    font-family: Grape Nuts, cursive;
+    font-size: 25px;
+    font-weight: 500;
+}
